@@ -5,7 +5,7 @@
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="icon" sizes="196x196" href="images/Icon.png">
     <link rel="apple-touch-icon" sizes="128x128" href="images/AppleIcon.png">
-    <title>tssf Community Obedience ghooker</title>
+    <title>tssf Community Obedience gordon</title>
     <link rel="stylesheet" href="bootstrap-3.1.1-dist/css/bootstrap.min.css">
 
     <link rel="stylesheet" href='css/tssf.css'>
