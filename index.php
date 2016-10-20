@@ -5,7 +5,7 @@
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="icon" sizes="196x196" href="images/Icon.png">
     <link rel="apple-touch-icon" sizes="128x128" href="images/AppleIcon.png">
-    <title>tssf Community Obedience ghooker</title>
+    <title>tssf Community Obedience gordon</title>
     <link rel="stylesheet" href="bootstrap-3.1.1-dist/css/bootstrap.min.css">
 
     <link rel="stylesheet" href='css/tssf.css'>
@@ -48,7 +48,7 @@
     $( document ).ready(display_todays_obedience);
 
     var nIntervId;
-     
+
     function update_display() {
         // Refresh every 10 minutes
         IntervId = setInterval(display_todays_obedience, 600000);
@@ -56,7 +56,11 @@
     </script>
     <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 
+<<<<<<< HEAD
     <h1><em>tssf Community Obedience</em></h1>
+=======
+    <h1><em>tssf Community Obedience for Gordon</em></h1>
+>>>>>>> origin/master
     <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;"><em>Province of Asia-Pacific
     <br/>for <span id='date'></span></em></p>
     <p class="rubric">This offering of prayer is to be said daily, where possible in the context of Morning or
