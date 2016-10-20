@@ -2,8 +2,7 @@ In the Province of the Pacific, pray for Tertiaries in New Zealand (Aotearoa): N
 
 Pray for all Regional Ministers in the Province of Asia-Pacific.
 
-In the Region of Popondetta, pray for
-
+<p class='rubric'>In the Region of Popondetta, pray for</p>
 Erastus Sangara	
 Rhoda Savenapa
 Rita Simeni	
@@ -13,9 +12,7 @@ Tevita Talanoa
 Winifred Talanoa	
 Nigel Tauni
 Johnsford Tura	
-Gideon Waida
-Lomas Wekaru Daima	
-Frank Davis Yawara
+Lomas Wekaru Daima
 
 RIP Barbara Desgrand	QLD B
 RIP Anne Johnson	SING
