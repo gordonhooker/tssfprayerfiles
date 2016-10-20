@@ -56,7 +56,7 @@
     </script>
     <div id="jsmessage">If you can read this, you have javascript disabled, please enable javascript to use this site</div>
 
-    <h1><em>tssf Community Obedience ghooker</em></h1>
+    <h1><em>tssf Community Obedience for Gordon</em></h1>
     <p style="font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;"><em>Province of Asia-Pacific
     <br/>for <span id='date'></span></em></p>
     <p class="rubric">This offering of prayer is to be said daily, where possible in the context of Morning or
@@ -120,7 +120,7 @@ for ($i = 0; $i <= 6; $i++)
 <p class="rubric">or...</p>
 <p class="boilerplate">The grace of our Lord Jesus Christ,<br/>the love of God,<br/>and the fellowship of the Holy Spirit<br/>be with us all evermore. <strong>Amen</strong>
 <p class="copyrite">* [Scripture quotations are from] New Revised Standard Version Bible, copyright &#64; 1989 National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.</p>
-<p class="rubric">Updated: 20th October 2016</p>
+<p class="rubric">Updated: 21st October 2016</p>
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
